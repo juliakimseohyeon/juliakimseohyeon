@@ -1,8 +1,8 @@
 # Hi there, I'm Julia 👋
 You can view my portfolio <a href="https://thejuliakim.com/">here</a>
 
-## 🌱 I’m the creator of the Kong App
-- Kong is a gamified plant identification app powered by OpenAI API which aims to foster love for nature in fun and artful way
+## 🌱 I’m the creator of the <a href="https://kong-app.netlify.app/">Kong App</a>
+- Kong is a gamified plant identification app powered by OpenAI API and StabilityAI API which aims to foster love for nature in fun and artful way
 
 
 ## 🤓 I'm obsessed with learning new skills
